@@ -1,8 +1,9 @@
 ### Hi there. I'm Arnob Mahmud! 👋
 
+- 🏫 I'm a student of : Bangladesh University of Textiles (BUTEX)
 - 🔭 I’m currently working on : RippleBee
-- 🌱 I’m currently learning : Flutter Dart
-- 💬 Ask me about : Web and App Development Tips<br><br>
+- 📚 I'm currently learning : C# & .Net
+- 💬 Ask me about : Web and Application Development Tips<br><br>
 
 <p align="center">
     <img src="https://img.shields.io/github/followers/arnobmahmud?label=follow&style=social"/> &nbsp;&nbsp;
