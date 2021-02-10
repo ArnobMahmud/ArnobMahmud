@@ -29,7 +29,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=arnobmahmud&show_icons=true"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnobmahmud&layout=compact&langs_count=5)](https://github.com/arnobmahmud/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnobmahmud&layout=compact&langs_count=7)](https://github.com/arnobmahmud/github-readme-stats)
 
 ## 🧰 Languages and Tools:
 
