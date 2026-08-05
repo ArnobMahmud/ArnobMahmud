@@ -1,34 +1,245 @@
-<h1 align="center">Hi 👋, I'm Arnob Mahmud</h1>
-<h3 align="center">MERN stack developer & Android + iOS application developer.</h3>
+<!-- ===================================================== -->
+<!-- 🌊 PROFILE BANNER -->
+<!-- ===================================================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnobmahmud&label=Profile%20views&color=9b5f90&style=plastic" alt="arnobmahmud" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnobmahmud" alt="arnobmahmud" /></a> </p>
+<svg width="100%" height="190" viewBox="0 0 1000 190" xmlns="http://www.w3.org/2000/svg">
 
-- 🔭 I’m currently working on [GrooveLinx](https://github.com/GrooveLinx)
+  <rect width="1000" height="190" fill="#285486"/>
 
-- 🌱 I’m currently learning **NodeJS, Flutter**
+  <path
+    d="M0 138
+       C170 120, 280 175, 465 145
+       C650 112, 790 190, 1000 145
+       L1000 190
+       L0 190 Z"
+    fill="#1C3E63"
+  />
 
-- 💬 Ask me about **Web & Application development tips.**
+  <text
+    x="500"
+    y="92"
+    text-anchor="middle"
+    fill="#F2F4F7"
+    font-size="52"
+    font-family="Arial, Helvetica, sans-serif"
+    font-weight="700"
+  >
+    Arnob Mahmud
+  </text>
 
-- 📫 How to reach me **arnob.tech.me@gmail.com**
+  <text
+    x="500"
+    y="125"
+    text-anchor="middle"
+    fill="#D6DEE8"
+    font-size="21"
+    font-family="Arial, Helvetica, sans-serif"
+    letter-spacing="1"
+  >
+    Supply Chain • Product Operations • Data Analytics
+  </text>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arnob__mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnob__mahmud" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arnobmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnobmahmud" height="30" width="40" /></a>
-<a href="https://fb.com/arnob.mahmud.amd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arnob.mahmud.amd" height="30" width="40" /></a>
-<a href="https://instagram.com/arnob___mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnob___mahmud" height="30" width="40" /></a>
-<a href="https://discord.gg/2dJ4aPGv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="750758901418426469" height="30" width="40" /></a>
-</p> <br>
+</svg>
 
+</div>
 
-<p><img align=left src="https://github-readme-stats.vercel.app/api/top-langs?username=arnobmahmud&show_icons=true&theme=cobalt&hide_border=true" alt="arnobmahmud" /></p>
-<p>&nbsp;<img align=center src="https://github-readme-stats.vercel.app/api?username=arnobmahmud&show_icons=true&theme=onedark&hide_border=true" alt="arnobmahmud" /></p>
-<p><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=arnobmahmud&theme=dracula&title_color=fcff5c&text_color=f5e0e0&bg_color=434c5e&hide_border=true&locale=en" alt="arnobmahmud" /></p>
+<br>
 
+<div align="center">
 
+<a href="YOUR_LINKEDIN_URL">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<a href="mailto:YOUR_EMAIL">
+  <img
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
 
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img
+    src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+</div>
+
+<br>
+
+---
+
+# 👨‍💼 About Me
+
+I am a **Supply Chain & Product Operations Professional** with experience in textile product development, production planning, material coordination, and shipment execution.
+
+I work across the complete operational flow—from **product development and fabric planning** to **processing, stitching, trims coordination, production follow-up, and shipment execution**.
+
+🔹 🧵 Supporting textile product development and order execution
+
+🔹 📊 Working with operational data for planning and decision-making
+
+🔹 📦 Coordinating fabric, trims, production, and inventory requirements
+
+🔹 🗓️ Managing T&A activities and production program workflows
+
+🔹 🚢 Supporting shipment booking and logistics coordination
+
+🔹 ⚙️ Working with Oracle ERP, Microsoft Excel, and supply-chain systems
+
+---
+
+# ⚙️ Tech Stack
+
+## 📊 Data & Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data_Analysis-2563EB?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+</p>
+
+## 🏭 Supply Chain & Operations
+
+<p>
+
+<img src="https://img.shields.io/badge/Oracle_ERP-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Supply_Chain-0F766E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Production_Planning-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Inventory_Planning-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Logistics_&_Shipping-DC2626?style=for-the-badge"/>
+
+</p>
+
+## 🛠️ Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Oracle_ERP-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+# 📌 Featured Work
+
+## 🧵 Textile Product Development
+
+Supporting product development activities from technical requirements and sample development through buyer feedback, approval, and bulk-order readiness.
+
+## 📦 Supply Chain & Production Planning
+
+Coordinating fabric requirements, processing programs, stitching programs, trims booking, production follow-up, and inventory requirements to support uninterrupted production.
+
+## 🚢 Order Execution & Logistics
+
+Supporting order execution through production coordination, shipment planning, booking, and delivery follow-up.
+
+## 📊 Supply Chain Data & Reporting
+
+Using operational data and reporting tools to improve visibility across material planning, production progress, inventory, and shipment activities.
+
+---
+
+# 🏆 Professional Highlights
+
+- 🧵 Textile product development and sample coordination
+- 📋 T&A planning and operational workflow tracking
+- 🧶 Fabric consumption and requirement analysis
+- 📦 Processing and stitching program preparation
+- 🏷️ Trims and accessories coordination
+- 📊 Production, inventory, and operational data analysis
+- 🚢 Shipment booking and logistics follow-up
+- ⚙️ Oracle ERP-based supply-chain operations
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img
+    src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img
+    src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### 💡 *“Turning operational data into smarter supply-chain decisions.”*
+
+<img
+  src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=285486&style=for-the-badge"
+/>
+
+</div>
