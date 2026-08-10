@@ -1,245 +1,462 @@
-<!-- ===================================================== -->
-<!-- 🌊 PROFILE BANNER -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<svg width="100%" height="190" viewBox="0 0 1000 190" xmlns="http://www.w3.org/2000/svg">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=Arnob%20Mahmud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
 
-  <rect width="1000" height="190" fill="#285486"/>
+<h1>👋 Hi, I'm Arnob Mahmud</h1>
 
-  <path
-    d="M0 138
-       C170 120, 280 175, 465 145
-       C650 112, 790 190, 1000 145
-       L1000 190
-       L0 190 Z"
-    fill="#1C3E63"
-  />
-
-  <text
-    x="500"
-    y="92"
-    text-anchor="middle"
-    fill="#F2F4F7"
-    font-size="52"
-    font-family="Arial, Helvetica, sans-serif"
-    font-weight="700"
-  >
-    Arnob Mahmud
-  </text>
-
-  <text
-    x="500"
-    y="125"
-    text-anchor="middle"
-    fill="#D6DEE8"
-    font-size="21"
-    font-family="Arial, Helvetica, sans-serif"
-    letter-spacing="1"
-  >
-    Supply Chain • Product Operations • Data Analytics
-  </text>
-
-</svg>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img
-    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img
-    src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-</div>
-
-<br>
-
----
-
-# 👨‍💼 About Me
-
-I am a **Supply Chain & Product Operations Professional** with experience in textile product development, production planning, material coordination, and shipment execution.
-
-I work across the complete operational flow—from **product development and fabric planning** to **processing, stitching, trims coordination, production follow-up, and shipment execution**.
-
-🔹 🧵 Supporting textile product development and order execution
-
-🔹 📊 Working with operational data for planning and decision-making
-
-🔹 📦 Coordinating fabric, trims, production, and inventory requirements
-
-🔹 🗓️ Managing T&A activities and production program workflows
-
-🔹 🚢 Supporting shipment booking and logistics coordination
-
-🔹 ⚙️ Working with Oracle ERP, Microsoft Excel, and supply-chain systems
-
----
-
-# ⚙️ Tech Stack
-
-## 📊 Data & Analytics
+<h3>
+Textile Engineer • Product Developer • Supply Chain • Technology Enthusiast
+</h3>
 
 <p>
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data_Analysis-2563EB?style=for-the-badge&logo=databricks&logoColor=white"/>
-
+  <a href="https://github.com/ArnobMahmud">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/arnob-mahmud">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
-## 🏭 Supply Chain & Operations
+</div>
 
-<p>
+<hr>
 
-<img src="https://img.shields.io/badge/Oracle_ERP-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<!-- ======================== ABOUT ======================== -->
 
-<img src="https://img.shields.io/badge/Supply_Chain-0F766E?style=for-the-badge"/>
+<h2>🧑‍💻 About Me</h2>
 
-<img src="https://img.shields.io/badge/Production_Planning-2563EB?style=for-the-badge"/>
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://img.shields.io/badge/Inventory_Planning-7C3AED?style=for-the-badge"/>
+<h3>👤 Profile</h3>
 
-<img src="https://img.shields.io/badge/Logistics_&_Shipping-DC2626?style=for-the-badge"/>
+<ul>
+<li>Merchant: Arnob Mahmud</li>
+<li>Role: Product Development & Supply Chain Professional</li>
+<li>Industry: Textile & Apparel</li>
+<li>Buyer: IKEA of Sweden (IOS), John Lewis & Partners UK </li>
+</ul>
 
-</p>
+</td>
 
-## 🛠️ Tools
+<td width="50%">
 
-<p>
+<h3>🎯 Focus Areas</h3>
 
-<img src="https://img.shields.io/badge/Oracle_ERP-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<ul>
+<li>Product Development</li>
+<li>Supply Chain Operations</li>
+<li>ERP & Workflow Automation</li>
+<li>Data & Technology</li>
+<li>Process Optimization</li>
+</ul>
 
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<hr>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<!-- ======================== TECHNOLOGY ======================== -->
 
-</p>
-
----
-
-# 📌 Featured Work
-
-## 🧵 Textile Product Development
-
-Supporting product development activities from technical requirements and sample development through buyer feedback, approval, and bulk-order readiness.
-
-## 📦 Supply Chain & Production Planning
-
-Coordinating fabric requirements, processing programs, stitching programs, trims booking, production follow-up, and inventory requirements to support uninterrupted production.
-
-## 🚢 Order Execution & Logistics
-
-Supporting order execution through production coordination, shipment planning, booking, and delivery follow-up.
-
-## 📊 Supply Chain Data & Reporting
-
-Using operational data and reporting tools to improve visibility across material planning, production progress, inventory, and shipment activities.
-
----
-
-# 🏆 Professional Highlights
-
-- 🧵 Textile product development and sample coordination
-- 📋 T&A planning and operational workflow tracking
-- 🧶 Fabric consumption and requirement analysis
-- 📦 Processing and stitching program preparation
-- 🏷️ Trims and accessories coordination
-- 📊 Production, inventory, and operational data analysis
-- 🚢 Shipment booking and logistics follow-up
-- ⚙️ Oracle ERP-based supply-chain operations
-
----
-
-# 📈 GitHub Statistics
+<h2>⚡ Skills & Technologies</h2>
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-  height="170"
-/>
+<h3>💻 Technology</h3>
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-  height="170"
-/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js,mysql">
+
+<br><br>
+
+<h3>🛠️ Tools & Platforms</h3>
+
+<img src="https://img.shields.io/badge/Oracle%20ERP-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+
+</div>
+
+<hr>
+
+<!-- ======================== EXPERTISE ======================== -->
+
+<h2>🧵 Professional Expertise</h2>
+
+<table width="100%">
+<tr>
+  
+<td width="50%" valign="top">
+
+<h3>📋 Product Development</h3>
+
+<ul>
+<li>Time & Action (TnA) Calendar</li>
+<li>Fabric Consumption</li>
+<li>Product Costing</li>
+<li>Greige Fabric Requisition</li>
+<li>Development Sample</li>
+<li>Garments Performance Testing (GPT) Sample </li>
+<li>ICOM/Photoshoot Sample</li>
+<li>Pre-Production (PP) Sample</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📦 Supply Chain</h3>
+
+<ul>
+<li>PO Wise Greige Demand (GD) Planning</li>
+<li>Bulk Greige Requisition </li>
+<li>Processing Program (PP)</li>
+<li>Trims & Accessories Booking</li>
+<li>Red Sticker (RS) Sample</li>
+<li>Inventory & Safety Stock</li>
+<li>Shipment Coordination</li>
+<li>Top of Production (TOP) Sample</li>
+</ul>
+
+</td>
+
+
+</tr>
+</table>
+
+<hr>
+
+<!-- ======================== WORKFLOW ======================== -->
+
+<h2>🔄 Supply Chain Workflow</h2>
+
+<div align="center">
+
+<table>
+<tr align="center">
+
+<td>📋<br><b>Tech Pack</b></td>
+<td>→</td>
+<td>🧵<br><b>Trims & Accessories Requisition</b></td>
+<td>→</td>
+<td>🎨<br><b>Order Execution & Freight Forwarding</b></b></td>
+<td>→</td>
+<td>🏭<br><b>Shipment Booking</b></td>
+
+</tr>
+
+<tr align="center">
+
+<td>⬇️</td>
+<td></td>
+<td>⬇️</td>
+<td></td>
+<td>⬇️</td>
+<td></td>
+<td>⬇️</td>
+
+</tr>
+
+<tr align="center">
+
+<td>📦<br><b>Order</b></td>
+<td>←</td>
+<td>🚢<br><b>Shipment</b></td>
+<td>←</td>
+<td>🛠️<br><b>Production</b></td>
+<td>←</td>
+<td>🧮<br><b>Greige Demand</b></td>
+
+</tr>
+</table>
+
+</div>
+
+<hr>
+
+<!-- ======================== PROJECTS ======================== -->
+
+<h2>🚀 Featured Projects</h2>
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📊 Supply Chain Workflow</h3>
+
+<p>
+Streamlining product development, production planning and shipment coordination through structured ERP-driven workflows.
+</p>
+
+<p>
+<b>Focus:</b><br>
+<code>ERP</code>
+<code>Supply Chain</code>
+<code>Production</code>
+<code>Automation</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧮 Textile Cost & Consumption</h3>
+
+<p>
+Calculating fabric consumption and supporting accurate product costing and production planning.
+</p>
+
+<p>
+<b>Focus:</b><br>
+<code>Textile</code>
+<code>Costing</code>
+<code>Data</code>
+<code>Optimization</code>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📦 Order & Shipment Management</h3>
+
+<p>
+Coordinating order execution, production requirements, accessories and shipment planning to support on-time delivery.
+</p>
+
+<p>
+<b>Focus:</b><br>
+<code>Order Management</code>
+<code>Production</code>
+<code>Logistics</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚙️ Process Automation</h3>
+
+<p>
+Exploring technology-driven approaches to reduce repetitive work and improve operational visibility.
+</p>
+
+<p>
+<b>Focus:</b><br>
+<code>Python</code>
+<code>Automation</code>
+<code>Data</code>
+<code>Workflow</code>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<hr>
+
+<!-- ======================== GITHUB STATS ======================== 
+
+<h2>📈 GitHub Statistics</h2>
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=ArnobMahmud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnobMahmud&layout=compact&theme=tokyonight&hide_border=true">
 
 </div>
 
 <br>
 
+<h2>🔥 Contribution Streak</h2>
+
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-  height="170"
-/>
+<img src="https://streak-stats.demolab.com?user=ArnobMahmud&theme=tokyonight&hide_border=true">
 
 </div>
 
----
+<hr>
 
-# 🤝 Connect With Me
+—->
+
+<!-- ======================== ACTIVITY ======================== -->
+
+<h2>📊 GitHub Activity</h2>
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnobMahmud&theme=tokyo-night&hide_border=true&area=true"
+width="95%" >
+
+</div>
+
+<hr>
+
+<!-- ======================== CONTRIBUTION SNAKE ======================== -->
+
+<h2>🐍 Contribution Activity</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+width="95%" >
+
+</div>
+
+<hr>
+
+<!-- ======================== WORK WITH ======================== -->
+
+<h2>🛠️ What I Work With</h2>
+
+<div align="center">
+
+<table width="90%">
+
+<tr>
+<th>Area</th>
+<th>Focus</th>
+</tr>
+
+<tr>
+<td>🧵 <b>Textile</b></td>
+<td>Product Development • Consumption • Costing</td>
+</tr>
+
+<tr>
+<td>📦 <b>Supply Chain</b></td>
+<td>Order Management • Production • Logistics</td>
+</tr>
+
+<tr>
+<td>⚙️ <b>ERP</b></td>
+<td>Oracle ERP • Workflow Integration</td>
+</tr>
+
+<tr>
+<td>💻 <b>Technology</b></td>
+<td>Python • Automation • Excel</td>
+</tr>
+
+<tr>
+<td>📊 <b>Planning</b></td>
+<td>TnA • Inventory • Safety Stock</td>
+</tr>
+
+<tr>
+<td>🚢 <b>Logistics</b></td>
+<td>Shipment • Booking • Delivery</td>
+</tr>
+
+</table>
+
+</div>
+
+<hr>
+
+<!-- ======================== CURRENT FOCUS ======================== -->
+
+<h2>🎯 Current Focus</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+<td>🧵</td>
+<td><b>Textile</b></td>
+<td>→</td>
+<td>Product Development</td>
+</tr>
+
+<tr>
+<td>📦</td>
+<td><b>Supply Chain</b></td>
+<td>→</td>
+<td>Efficient Operations</td>
+</tr>
+
+<tr>
+<td>⚙️</td>
+<td><b>ERP</b></td>
+<td>→</td>
+<td>Process Integration</td>
+</tr>
+
+<tr>
+<td>💻</td>
+<td><b>Technology</b></td>
+<td>→</td>
+<td>Automation & Digital Solutions</td>
+</tr>
+
+<tr>
+<td>📊</td>
+<td><b>Data</b></td>
+<td>→</td>
+<td>Better Decisions</td>
+</tr>
+
+</table>
+
+</div>
+
+<hr>
+
+<!-- ======================== CONNECT ======================== -->
+
+<h2>🌐 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://github.com/ArnobMahmud">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-  <img
-    src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img
-    src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"
-  />
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
 
 <br>
 
----
+<!-- ======================== VISITORS ======================== -->
 
 <div align="center">
 
-### 💡 *“Turning operational data into smarter supply-chain decisions.”*
+<img src="https://komarev.com/ghpvc/?username=ArnobMahmud&style=for-the-badge&color=6C63FF"
+alt="Profile Views" >
 
-<img
-  src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=285486&style=for-the-badge"
-/>
+<br><br>
+
+<h3>💡 <i>"Turning processes into possibilities."</i></h3>
+
+</div>
+
+<br>
+
+<!-- ======================== FOOTER ======================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer"
+width="100%" >
 
 </div>
