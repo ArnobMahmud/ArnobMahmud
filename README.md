@@ -2,17 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=Arnob%20Mahmud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
 
-<h1>👋 Hi, I'm Arnob Mahmud</h1>
+<h3>👋 Hi, I'm Arnob Mahmud</h3>
 
-<h3>
+<h5>
 Textile Engineer • Product Developer • Supply Chain • Technology Enthusiast
-</h3>
+</h5>
 
 <p>
   <a href="https://github.com/ArnobMahmud">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/arnob-mahmud">
+
+  <a href="https://www.linkedin.com/in/arnob-mahmud">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -114,6 +115,7 @@ Textile Engineer • Product Developer • Supply Chain • Technology Enthusias
 <li>PO Wise Greige Demand (GD) Planning</li>
 <li>Bulk Greige Requisition </li>
 <li>Processing Program (PP)</li>
+<li>Stitching Program (SP)</li>
 <li>Trims & Accessories Booking</li>
 <li>Red Sticker (RS) Sample</li>
 <li>Inventory & Safety Stock</li>
@@ -429,7 +431,7 @@ width="95%" >
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/arnob-mahmud">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
