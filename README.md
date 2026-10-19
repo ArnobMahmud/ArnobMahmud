@@ -296,7 +296,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnobMahmud&
 
 —->
 
-<!-- ======================== ACTIVITY ======================== -->
 
 <h2>📊 GitHub Activity</h2>
 
@@ -308,6 +307,8 @@ width="95%" >
 </div>
 
 <hr>
+
+<!-- ======================== ACTIVITY ======================== -->
 
 <!-- ======================== CONTRIBUTION SNAKE ======================== -->
 
