@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=Arnob%20Mahmud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=100&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Hi+there!;I'm+Arnob+Mahmud." width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=100&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there!;I'm+Arnob+Mahmud." width="70%" />
 
 <h5>
 Textile Engineer • Product Developer • Supply Chain • Technology Enthusiast
@@ -26,9 +26,9 @@ Textile Engineer • Product Developer • Supply Chain • Technology Enthusias
 
 <h2>🧑‍💻 About Me</h2>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>👤 Profile</h3>
 
@@ -41,7 +41,7 @@ Textile Engineer • Product Developer • Supply Chain • Technology Enthusias
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>🎯 Focus Areas</h3>
 
@@ -270,7 +270,7 @@ Exploring technology-driven approaches to reduce repetitive work and improve ope
 
 <h2>📈 GitHub Statistics</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnobMahmud&theme=algolia&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnobMahmud&hide=html&theme=tokyonight&show_icons=true">
 </div>
 <br>
 
