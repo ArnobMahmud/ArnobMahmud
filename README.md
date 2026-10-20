@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=Arnob%20Mahmud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
 
-<h3>👋 Hi, I'm Arnob Mahmud</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=100&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Hi+there!;I'm+Arnob+Mahmud." width="70%" />
 
 <h5>
 Textile Engineer • Product Developer • Supply Chain • Technology Enthusiast
@@ -268,47 +268,17 @@ Exploring technology-driven approaches to reduce repetitive work and improve ope
 
 <hr>
 
-<!-- ======================== GITHUB STATS ======================== 
-
 <h2>📈 GitHub Statistics</h2>
-
 <div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=ArnobMahmud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnobMahmud&layout=compact&theme=tokyonight&hide_border=true">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnobMahmud&theme=algolia&show_icons=true">
 </div>
-
 <br>
 
 <h2>🔥 Contribution Streak</h2>
-
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=ArnobMahmud&theme=tokyonight&hide_border=true">
-
 </div>
-
 <hr>
-
-—->
-
-
-<h2>📊 GitHub Activity</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnobMahmud&theme=tokyo-night&hide_border=true&area=true"
-width="95%" >
-
-</div>
-
-<hr>
-
-<!-- ======================== ACTIVITY ======================== -->
 
 <!-- ======================== CONTRIBUTION SNAKE ======================== -->
 
